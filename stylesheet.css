@@ -1,0 +1,36 @@
+body {
+	background-color: #CC9966; 
+}
+
+h1 {
+	font-family: Times New Roman;
+	font-weight: bold;
+	text-align: center;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	color: #660066;
+}
+
+img {
+	height: 370px;
+	width: 300px;
+	box-shadow: rgba(0,0,0,0.2) 20px 20px;
+
+}
+p {
+    font-family: Sans-serif;
+    font-weight: italic;
+    font-align: left;
+    padding-top: 50px;
+    padding-bottom: 60px;
+}
+h2
+{
+text-shadow: 6px 6px #808080;
+    position: relative;
+}
+li {
+    align: center;
+    
+    text-align: center;
+}
